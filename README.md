@@ -52,4 +52,4 @@ Each template was developed based on design specifications and built using HTML,
 
 Thank you for visiting my profile.
 
-*Last updated: 31/07/2025 — All projects involve slicing HTML, CSS, and TailwindCSS code by me.*
+*Last updated: 18/09/2025 — All projects involve slicing HTML, CSS, and TailwindCSS code by me.*
