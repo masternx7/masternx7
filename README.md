@@ -16,6 +16,9 @@ along with JavaScript for interactivity.
 
 
 ## Projects
+- **FluffyWorld Minecraft Store Website**  
+[https://store.fluffyworld.online/](https://store.fluffyworld.online/)  
+Developed using Laravel PHP for both frontend and backend, with TailwindCSS for design and styling.
 
 - **Rachawinit School Website**  
 [https://rachawinit.ac.th](https://rachawinit.ac.th)  
