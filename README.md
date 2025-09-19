@@ -16,8 +16,9 @@ along with JavaScript for interactivity.
 
 ## Github Status
 
-<a href="http://www.github.com/masternx7"><img src="https://github-readme-stats.vercel.app/api?username=masternx7&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="masternx7's GitHub stats" /></a>
-<a href="https://github.com/masternx7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masternx7&langs_count=5&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/masternx7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masternx7&langs_count=5&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/masternx7"><img src="https://github-readme-stats.vercel.app/api?username=masternx7&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="masternx7's GitHub stats" /></a>
+
 
 
 
