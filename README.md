@@ -27,20 +27,17 @@ along with JavaScript for interactivity.
 [https://store.fluffyworld.online/](https://store.fluffyworld.online/)  
 Developed using Laravel PHP for both frontend and backend, with TailwindCSS for design and styling.
 
+- **Bangkokfoam**  
+[https://www.bangkokfoam.co.th/](https://www.bangkokfoam.co.th/)
+
 - **Rachawinit School Website**  
 [https://rachawinit.ac.th](https://rachawinit.ac.th)  
-Developed the frontend of a school website based on provided Figma designs.  
-Implemented responsive layouts using HTML and TailwindCSS.
 
 - **The Act KK Website**  
 [https://www.theactkk.net](https://www.theactkk.net)  
-Built the frontend interface for an educational institution offering tutoring courses.  
-Converted Figma designs into responsive web pages using TailwindCSS and JavaScript.
 
 - **Nexaso Medical Website**  
 [https://nexasomedical.com/](https://nexasomedical.com/)  
-Developed the frontend for a healthcare services website.  
-Implemented the design using HTML, SCSS, TailwindCSS, and JavaScript to ensure responsiveness and accessibility.
 
 - **Theme Templates for Client Projects**  
 Created reusable frontend templates for internal use by clients.  
@@ -59,4 +56,4 @@ Each template was developed based on design specifications and built using HTML,
 
 Thank you for visiting my profile.
 
-*Last updated: 18/09/2025 — All projects involve slicing HTML, CSS, and TailwindCSS code by me.*
+*Last updated: 04/10/2025 — All projects involve slicing HTML, CSS, and TailwindCSS code by me.*
