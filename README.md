@@ -16,10 +16,6 @@ along with JavaScript for interactivity.
 
 
 ## Projects
-- **Minetify Website**  
-  [https://minetify.net/](https://minetify.net/)  
-  Developed using **Next.js** and **Tailwind CSS**. This project is a robust webstore system for Minecraft servers, featuring support for TrueMoney Wallet and bank transfers, promotions, and easy management.  
-
 - **FluffyWorld Minecraft Store Website**  
 [https://store.fluffyworld.online/](https://store.fluffyworld.online/)  
 Developed using Laravel PHP for both frontend and backend, with TailwindCSS for design and styling.
